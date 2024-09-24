@@ -1,8 +1,14 @@
 # my_second_project
-my_second_project1<brt>- 
-a=[123,432,543,22,43]<brt>- 
-min_no=None<brt>- 
-for i in a:<brt>- 
-    if min_no is None or i<min_no:<brt>- 
-               min_no=i<brt>- 
+my_second_project1
+<br> 
+a=[123,432,543,22,43]
+<br>
+min_no=None
+<br> 
+for i in a:
+<br> 
+    if min_no is None or i<min_no:
+    <br> 
+               min_no=i
+               <br> 
 print("Minimum no.",min_no) 
