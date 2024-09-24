@@ -6,7 +6,7 @@ a=[123,432,543,22,43]
 min_no=None
 <br> 
 for i in a:
-<br> 
+<br>
     if min_no is None or i<min_no:
     <br> 
                min_no=i
