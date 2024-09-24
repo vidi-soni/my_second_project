@@ -11,4 +11,4 @@ for i in a:
     <br> 
                min_no=i
                <br> 
-print("Minimum no.",min_no) 
+print("Minimum number",min_number) 
