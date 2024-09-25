@@ -3,7 +3,7 @@ my_second_project1
 <br> 
 a=[123,432,543,22,43]
 <br>
-min_no=None
+min_no=Non
 <br> 
 for i in a:
 <br>
